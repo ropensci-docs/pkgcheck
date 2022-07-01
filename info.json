@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d0993c961c804bcb95854908ada549c6b5b9ca83",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2022-07-01 09:14:24",
+    "files": 3,
+    "merge": false,
+    "message": "update monthly workflow message body [ci skip]\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck"
+}

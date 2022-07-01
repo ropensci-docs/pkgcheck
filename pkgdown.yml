@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.3
+pkgdown_sha: ~
+articles:
+  extending-checks: extending-checks.html
+last_built: 2022-07-01T10:09Z
+urls:
+  reference: https://docs.ropensci.org/pkgcheck/reference
+  article: https://docs.ropensci.org/pkgcheck/articles
+
