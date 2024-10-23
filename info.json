@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "be643436d0015a35911f1038c032d4742f3b7c81",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-10-20 12:28:17",
+    "files": 3,
+    "merge": false,
+    "message": "sort .Rbuildignore [ci skip]\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck"
+}

@@ -1,0 +1,24 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://docs.ropensci.org/pkgcheck/404.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/CONTRIBUTING.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/articles/extending-checks.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/articles/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/articles/list-checks.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/authors.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/checks_to_markdown.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/get_default_github_branch.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/get_gh_token.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/get_latest_commit.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/list_pkgchecks.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/logfile_names.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/pkgcheck-package.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/pkgcheck.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/pkgcheck_bg.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/print.pkgcheck.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/read_pkg_guide.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/render_md2html.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgcheck/reference/use_github_action_pkgcheck.html</loc></url>
+</urlset>
+
