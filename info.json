@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "19897d0fd132fa0251f563c089b9809e854606de",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-09-09T06:58:12Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #412 from Aariq/add-eric\n\nAdd Eric Scott as author"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-09-09T14:49:40Z"
+}

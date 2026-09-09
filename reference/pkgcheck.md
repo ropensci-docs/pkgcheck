@@ -1,0 +1,62 @@
+# Generate report on package compliance with rOpenSci Statistical Software requirements
+
+Generate report on package compliance with rOpenSci Statistical Software
+requirements
+
+## Usage
+
+``` r
+pkgcheck(
+  path = ".",
+  goodpractice = TRUE,
+  use_cache = TRUE,
+  extra_env = .GlobalEnv
+)
+```
+
+## Arguments
+
+- path:
+
+  Path to local repository
+
+- goodpractice:
+
+  If `FALSE`, skip most goodpractice checks except lintr and
+  'DESCRIPTION' checks. May be useful in development stages to more
+  quickly check other aspects.
+
+- use_cache:
+
+  Checks are cached for rapid retrieval, and only re-run if the git hash
+  of the local repository changes. Setting `use_cache` to `FALSE` will
+  force checks to be re-run even if the git hash has not changed.
+
+- extra_env:
+
+  Additional environments from which to collate checks. Other package
+  names may be appended using `c`, as in `c(.GlobalEnv, "mypkg")`.
+
+## Value
+
+A `pkgcheck` object detailing all package assessments automatically
+applied to packages submitted for peer review.
+
+## See also
+
+Other pkgcheck_fns:
+[`pkgcheck_bg()`](https://docs.ropensci.org/pkgcheck/reference/pkgcheck_bg.md),
+[`print.pkgcheck()`](https://docs.ropensci.org/pkgcheck/reference/print.pkgcheck.md)
+
+## Examples
+
+``` r
+if (FALSE) { # \dontrun{
+checks <- pkgcheck ("/path/to/my/package") # default full check
+summary (checks)
+# Or to run only checks implemented in 'pkgcheck' and not the
+# additional \pkg{goodpractice} checks:
+checks <- pkgcheck ("/path/to/my/package", goodpractice = FALSE)
+summary (checks)
+} # }
+```
