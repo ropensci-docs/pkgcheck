@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c4743dfdd1c8516b0fdebc861818ebba9d84615f",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-09-16T10:43:48Z",
+    "files": 29,
+    "merge": true,
+    "message": "Merge pull request #418 from ropensci-review-tools/pkgdown\n\npkgdown"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-09-17T10:26:08Z"
+}
