@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5e94e595c61a04c7ff19b1bcfc837c0361dd35e8",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-02T08:40:41Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #427 from ropensci-review-tools/misc-check-counts\n\nrm obsolete call to 'misc_check_counts'"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-10-02T13:01:23Z"
+}
