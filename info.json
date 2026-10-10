@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a54d193192b308d478ba2bd49b13de28f1a6f7b3",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-10T16:34:11Z",
+    "files": 16,
+    "merge": true,
+    "message": "Merge pull request #434 from ropensci-review-tools/col-types\n\nforce-col-types from ropensci-review-tools/pkgstats/121"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-10-10T19:21:03Z"
+}
