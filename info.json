@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "47d013499e27867bffb98758d87ab2d5f81a4c46",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-14T08:03:43Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #436 from ropensci-review-tools/cran3.4\n\ncran version 0.3.4"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-10-14T14:11:09Z"
+}
