@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b60c2b868f16353be456b110e348c5bd067501af",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-21T09:07:08Z",
+    "files": 7,
+    "merge": true,
+    "message": "Merge pull request #455 from ropensci-review-tools/remote-srr\n\nremotes srr"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-10-21T16:18:34Z"
+}
