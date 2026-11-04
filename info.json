@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "3dd166f4deca76606b91354cb559f4c88c57aab2",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-03T08:40:25Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #452 from ropensci-review-tools/rrt-token\n\ntransfer rrt-token updates to @maelle"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-11-04T07:09:09Z"
+}
