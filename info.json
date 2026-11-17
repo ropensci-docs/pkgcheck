@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4569a1936346d168d2e1aa900221d1718da98599",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-17T06:21:44Z",
+    "files": 1,
+    "merge": false,
+    "message": "ci: add workflow using dev pkgstats (#460)"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgcheck",
+  "pkg": "pkgcheck",
+  "time": "2026-11-17T07:25:51Z"
+}
